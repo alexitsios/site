@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: "Σχετικά με το Blog μου"
 description: "Σχετικά με το Blog μου"
