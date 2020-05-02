@@ -1,6 +1,6 @@
 ---
 published: true
-title: Welcome to my blog
+title: Καλωσήρθατε στο blog μου!
 date: '2020-05-03'
 description: Καλωσήρθατε στο Blog μου
 image: /_posts/welcome-to-my-blog.png
