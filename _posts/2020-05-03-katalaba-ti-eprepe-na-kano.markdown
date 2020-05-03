@@ -10,3 +10,5 @@ layout: post
 ---
 
 αυτό εδώ είναι μία ακόμη πληροφορία
+
+![minimalist_wallpapers_droidviews_01.jpg](/uploads/minimalist_wallpapers_droidviews_01.jpg)
