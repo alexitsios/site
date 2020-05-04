@@ -22,7 +22,7 @@ favicon: assets/images/favicon.png
 production_url: https://alexitsios.github.io/site/
 source_url: https://alexitsios.github.io/site/
 CNAME: 
-navigation: true
+navigation: false
 subscribers: true
 twitter: tryghost
 facebook: ghost
