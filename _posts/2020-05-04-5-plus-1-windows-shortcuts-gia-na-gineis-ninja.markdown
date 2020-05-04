@@ -7,7 +7,7 @@ current: post
 navigation: true
 cover: assets/images/google-stadia.jpg
 class: post-template
-subclass: post tag-getting-started
+subclass: post tag-fables
 ---
 
 Για όσους χρησιμοποιούμε υπολογιστές ή laptop με windows, τα shortcuts είναι ένας έξυπνος τρόπος να κάνουμε γρήγορα τις εργασίες μας. Με αυτά τα 5 + 1 χρήσιμα shortcuts, είμαι σίγουρος ότι θα γίνετε windows ninja. 
