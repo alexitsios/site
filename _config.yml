@@ -15,7 +15,7 @@ defaults:
     permalink: "/:basename:output_ext"
 email: 
 description: 
-baseurl: site/
+baseurl: 
 url: https://alexitsios.github.io/site/
 twitter: 
 github: 
