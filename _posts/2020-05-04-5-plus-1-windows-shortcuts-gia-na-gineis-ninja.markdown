@@ -3,6 +3,11 @@ title: 5 + 1 Windows Shortcuts για να γίνεις Ninja
 date: 2020-05-04 15:14:00 Z
 permalink: 5-1-windows-shortcuts-gia-na-gineis-ninja
 layout: post
+current: post
+navigation: true
+cover: assets/images/google-stadia.jpg
+class: post-template
+subclass: 'post tag-getting-started'
 ---
 
 Για όσους χρησιμοποιούμε υπολογιστές ή laptop με windows, τα shortcuts είναι ένας έξυπνος τρόπος να κάνουμε γρήγορα τις εργασίες μας. Με αυτά τα 5 + 1 χρήσιμα shortcuts, είμαι σίγουρος ότι θα γίνετε windows ninja. 
