@@ -6,3 +6,5 @@ image: "/_posts/welcome-to-my-blog.png"
 ---
 
 Καλωσήρθατε στο Blog μου. Αυτό είναι το πρώτο μου άρθρο!
+
+![phone-receiver.png](/uploads/phone-receiver.png)
