@@ -4,8 +4,8 @@ date: 2020-05-04 12:46:00 Z
 permalink: pos-na-trabikseis-kalyteres-fotografies-me-tin-kamera-toy-kinitou
 layout: post
 current: post
-navigation: True
-cover:  assets/images/google-stadia.jpg
+navigation: true
+cover: assets/images/google-stadia.jpg
 ---
 
 Όσοι από εμάς μπορείτε να θυμηθείτε την εποχή προ smartphones, σίγουρα  γνωρίζετε πολύ καλά πως η διαδικασία το να τραβήξει κάποιος μία φωτογραφία δεν ήταν και το πιο απλό πράγμα.  πρώτα από όλα θα έπρεπε να αγοράσετε μία πάρα πολύ καλή κάμερα Καθώς επίσης και ένα λογισμικό επεξεργασίας για τον υπολογιστή σας.  φυσικά θα έπρεπε να αφιερώσετε πάρα πολύ χρόνο και ενέργεια για να μάθετε πώς να τα χρησιμοποιείτε όλα αυτά.
