@@ -1,5 +1,5 @@
 ---
-title: Type
+title: Studio Tech
 timezone: UTC
 collections:
   posts:
@@ -13,14 +13,14 @@ defaults:
     path: _pages
   values:
     permalink: "/:basename:output_ext"
-email: ''
-description: ''
+email: 
+description: 
 baseurl: site/
 url: https://alexitsios.github.io/site/
-twitter: ''
-github: ''
-instagram: ''
-facebook: ''
+twitter: 
+github: 
+instagram: 
+facebook: 
 markdown: kramdown
 permalink: pretty
 paginate: 10
