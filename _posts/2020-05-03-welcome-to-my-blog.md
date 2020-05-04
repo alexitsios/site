@@ -8,4 +8,4 @@ layout: post
 
 Καλωσήρθατε στο Blog μου. Αυτό είναι το πρώτο μου άρθρο!
 
-![phone-receiver.png](/images/phone-receiver.png)
+![phone-receiver.png](/uploads/phone-receiver.png)
