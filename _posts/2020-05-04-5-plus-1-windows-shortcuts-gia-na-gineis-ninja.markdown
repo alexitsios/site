@@ -2,15 +2,16 @@
 title: 5 + 1 Windows Shortcuts για να γίνεις Ninja
 date: 2020-05-04 15:14:00 Z
 permalink: 5-1-windows-shortcuts-gia-na-gineis-ninja
+categories:
+- how to
+tags:
+- φωτογραφία
 layout: post
-current: post
-navigation: true
-cover: assets/images/google-stadia.jpg
-class: post-template
-subclass: post tag-fables
 ---
 
 Για όσους χρησιμοποιούμε υπολογιστές ή laptop με windows, τα shortcuts είναι ένας έξυπνος τρόπος να κάνουμε γρήγορα τις εργασίες μας. Με αυτά τα 5 + 1 χρήσιμα shortcuts, είμαι σίγουρος ότι θα γίνετε windows ninja. 
+
+![shortcut.jpg](/uploads/shortcut.jpg)
 
 ## Windows key + D
 Εάν έχετε αρκετά ανοιχτά παράθυρα και θέλετε να πάτε στην επιφάνεια εργασίας, πατήστε το windows key και το D. Για να γυρίσετε πίσω στα παράθυρα σας, ξαναπατήστε windows key + D για μια ακόμη φορά.
