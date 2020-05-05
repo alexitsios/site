@@ -14,7 +14,7 @@ paginate: 100
 language: en-uk
 words_per_minute: 200
 baseurl: "/site/"
-description: Το Retrogaming και η Τεχνολογία στα καλύτερα της!
+description: Retrogaming, Anime και Τεχνολογία στα καλύτερα της!
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
