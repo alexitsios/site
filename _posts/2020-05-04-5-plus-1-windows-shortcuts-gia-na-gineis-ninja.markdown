@@ -7,6 +7,11 @@ categories:
 tags:
 - windows
 layout: post
+current: post
+cover:  uploads/shortcut.jpg
+navigation: True
+class: post-template
+author: alex
 ---
 
 Για όσους χρησιμοποιούμε υπολογιστές ή laptop με windows, τα shortcuts είναι ένας έξυπνος τρόπος να κάνουμε γρήγορα τις εργασίες μας. Με αυτά τα 5 + 1 χρήσιμα shortcuts, είμαι σίγουρος ότι θα γίνετε windows ninja. 

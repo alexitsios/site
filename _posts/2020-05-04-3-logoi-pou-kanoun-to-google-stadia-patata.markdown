@@ -7,6 +7,11 @@ categories:
 tags:
 - google stadia
 layout: post
+current: post
+cover:  uploads/google-stadia.jpg
+navigation: True
+class: post-template
+author: alex
 ---
 
 Το όραμα της νέας πλατφόρμας της Google είναι να παίζεις από όποια συσκευή και αν έχεις, όπου και αν βρίσκεσαι! Βέβαια, αυτό μου ακούγεται πατάτα και δούμε τους λόγους που θα αποτύχει. 
