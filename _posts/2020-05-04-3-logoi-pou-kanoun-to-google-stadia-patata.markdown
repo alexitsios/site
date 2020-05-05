@@ -6,11 +6,6 @@ categories:
 - Gaming
 tags:
 - google stadia
-current: post
-navigation: true
-cover: assets/images/google-stadia.jpg
-class: post-template
-subclass: "'post tag-getting-started'"
 layout: post
 ---
 
