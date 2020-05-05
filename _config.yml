@@ -43,7 +43,7 @@ username: alexitsios
 repo: site
 branch: master
 relative_source: "../site/"
-destination: "../jasper2-pages/"
+#destination: "../jasper2-pages/"
 exclude:
 - assets/css
 - node_modules
