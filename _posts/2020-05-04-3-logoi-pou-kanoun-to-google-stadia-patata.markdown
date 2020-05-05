@@ -8,8 +8,8 @@ tags:
 - google stadia
 layout: post
 current: post
-cover:  uploads/google-stadia.jpg
-navigation: True
+cover: uploads/google-stadia.jpg
+navigation: true
 class: post-template
 author: alex
 ---
