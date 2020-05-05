@@ -5,7 +5,7 @@ permalink: 5-1-windows-shortcuts-gia-na-gineis-ninja
 categories:
 - how to
 tags:
-- φωτογραφία
+- windows
 layout: post
 ---
 
