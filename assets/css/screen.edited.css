@@ -30,7 +30,11 @@ production stylesheet in assets/built/screen.css
 
 /* Override site logo */
 .site-logo {
-	    max-height: 245px;
+	    max-height: 100px;
+}
+
+.site-logo img {
+    max-height: 100px;
 }
 
 /* Push the previous/next links out to the left/right */

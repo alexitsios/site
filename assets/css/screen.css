@@ -167,6 +167,10 @@ body {
     max-height: 100px;
 }
 
+.site-logo img {
+    max-height: 100px;
+}
+
 .site-description {
     z-index: 10;
     margin: 0;
