@@ -8,8 +8,8 @@ tags:
 - windows
 layout: post
 current: post
-cover:  uploads/shortcut.jpg
-navigation: True
+cover: uploads/shortcut.jpg
+navigation: true
 class: post-template
 author: alex
 ---

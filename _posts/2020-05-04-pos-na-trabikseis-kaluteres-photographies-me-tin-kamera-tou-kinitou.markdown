@@ -8,8 +8,8 @@ tags:
 - photography
 layout: post
 current: post
-cover:  uploads/photography-tips.jpg
-navigation: True
+cover: uploads/photography-tips.jpg
+navigation: true
 class: post-template
 author: alex
 ---
