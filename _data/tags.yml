@@ -10,8 +10,8 @@ nintendo:
   name: nintendo
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
-NES:
-  name: NES
+nes:
+  name: nes
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
 playstation:
