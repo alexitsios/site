@@ -22,12 +22,12 @@ favicon: assets/images/favicon.png
 production_url: https://alexitsios.github.io/site/
 source_url: https://alexitsios.github.io/site/
 CNAME: 
-navigation: false
+navigation: true
 subscribers: true
 twitter: tryghost
 facebook: ghost
 disqus: false
-disqus_shortname: jekyller
+disqus_shortname: alexitsios
 google_analytics: UA-69281367-1
 permalink: "/:title"
 plugins_dir:
@@ -39,8 +39,8 @@ feed:
   path: feed.xml
 safe: false
 lsi: false
-username: jekyller
-repo: jasper2
+username: alexitsios
+repo: site
 branch: master
 relative_source: "../site/"
 destination: "../jasper2-pages/"
