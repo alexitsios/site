@@ -2,15 +2,19 @@ speeches:
   name: speeches
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+photography:
+  name: photography
   description: False
   cover: False
-fables:
-  name: fables
+nintendo:
+  name: nintendo
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+NES:
+  name: NES
+  description: A series of short stories that make you think.
+  cover: assets/images/fables.jpg
+playstation:
+  name: playstation
   description: False
   cover: False
