@@ -11,7 +11,7 @@ layout: post
 
 Για όσους χρησιμοποιούμε υπολογιστές ή laptop με windows, τα shortcuts είναι ένας έξυπνος τρόπος να κάνουμε γρήγορα τις εργασίες μας. Με αυτά τα 5 + 1 χρήσιμα shortcuts, είμαι σίγουρος ότι θα γίνετε windows ninja. 
 
-![shortcut.jpg](/uploads/shortcut.jpg)
+![shortcut.jpg](/site/uploads/shortcut.jpg)
 
 ## Windows key + D
 Εάν έχετε αρκετά ανοιχτά παράθυρα και θέλετε να πάτε στην επιφάνεια εργασίας, πατήστε το windows key και το D. Για να γυρίσετε πίσω στα παράθυρα σας, ξαναπατήστε windows key + D για μια ακόμη φορά.
