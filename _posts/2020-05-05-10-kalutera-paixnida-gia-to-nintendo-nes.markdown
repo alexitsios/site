@@ -7,12 +7,12 @@ categories:
 tags:
 - nes
 - nintendo
-layout: post
 current: post
 cover: uploads/nes-best-games.jpg
 navigation: true
 class: post-template
 author: alex
+layout: post
 ---
 
 Αν κάποιος πει πως η Nintendo δεν έχει ποικιλία στα παιχνίδια της,  αυτό είναι ένα μεγάλο λάθος.  Παιχνίδια όπως το Super Mario Bros,  Legend of zelda καθώς και Castlevania,  είναι κάποια από τα πιο  διάσημα παιχνίδια που χάραξαν πορεία στον κόσμο των video games τόσο για την μοναδικότητα και ενδιαφέρουσα πλοκή τους,  το ποικίλο gameplay τους αλλά και την πληθώρα έξυπνο και μοναδικών παζλ.
@@ -26,6 +26,8 @@ author: alex
 Ας δούμε Λοιπόν τα καλύτερα παιχνίδια…
 
 ## Kirby's Adventure (1993)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJJWMShBFRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Η συγκεκριμένη φουντωτή μπαλίτσα Γνωστή ως Kirby  αποτελεί sequel του παιχνιδιού Kirby's Dream Land Το οποίο είχε βγει για το Game Boy Το 1992.  καθώς το συγκεκριμένο παιχνίδι αποτελούσε ένα από τα τελευταία παιχνίδια που βγήκαν και την συγκεκριμένη κονσόλα,  η γραφική λεπτομέρεια και η μουσική καθώς και το gameplay ήταν εκπληκτικά.  στο συγκεκριμένο παιχνίδι ο Kirby  μπορεί να καταπιεί τους εχθρούς και απορροφά τις δυνάμεις τους.  σε γενικές γραμμές πρόκειται για ένα ευχαριστώ και σχετικά χαλαρό επίπεδο δυσκολίας σε σχέση με άλλα παιχνίδια της συγκεκριμένης πλατφόρμας και είναι ένα παιχνίδι που θα απολαύσουν μικροί Και μεγάλοι.  πραγματικά πρόκειται για ένα masterpiece που θα σας καταπλήξει ευχάριστα.
 
