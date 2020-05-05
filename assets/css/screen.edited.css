@@ -28,6 +28,11 @@ production stylesheet in assets/built/screen.css
     transition: all 0.2s ease;
 }
 
+/* Override site logo */
+.site-logo {
+	    max-height: 245px;
+}
+
 /* Push the previous/next links out to the left/right */
 .older-posts,
 .newer-posts {
