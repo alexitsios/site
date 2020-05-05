@@ -9,7 +9,7 @@ tags:
 - playstation
 layout: post
 current: post
-cover: uploads/nintendo-playstatio.jpg
+cover: uploads/nintendo-playstation.jpg
 navigation: true
 class: post-template
 author: alex
