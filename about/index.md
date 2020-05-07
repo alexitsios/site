@@ -1,17 +1,23 @@
 ---
 title: About
-layout: page
 current: about
 navigation: true
 logo: assets/images/ghost.png
 class: page-template
 subclass: post page
+layout: page
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Η πρώτη προσπάθεια για να ξεκινήσει το Studio Tech  έγινε τον Ιούνιο του 2019 όταν εγώ μαζί με έναν φίλο μου  αποφασίσαμε να φτιάξουμε έναν YouTube channel στο οποίο θα καλύπταμε θέματα τεχνολογίας και Retro gaming. Ενθουσιασμένοι και οι δυο μας, αποφασίσαμε να  πληρώσουμε να μας φτιάξουν ένα λογότυπο  το οποίο θα απεικόνιζε τους δυο μας σε μορφή καρτούν.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Τα πρώτα βίντεο  τα έβγαλα μέσα στο μήνα χωρίς επιτυχία. Επίσης, ο φίλος μου βαρέθηκε και ασχολήθηκε με το  μουσικό YouTube channel που ήδη είχε, το οποίο είναι αρκετά πετυχημένο για τα ελληνικά δεδομένα.
+
+Καθότι  η απόκριση δεν ήταν η αναμενόμενη  σταμάτησα αυτό το εγχείρημα. Προς το Σεπτέμβριο του ίδιου έτους ξεκίνησα ένα άλλο blog για την ακρίβεια στήλη στο Wattpad μέσα από το οποίο μοιραζόμουν και συνεχίζω και μοιράζομαι τις εμπειρίες μου γύρω από την έκδοση βιβλίων.  Εκτός από την πρωινή μου δουλειά,  ασχολούμαι με την συγγραφή βιβλίων και είναι ένα χόμπι το οποίο παραδόξως αποδίδει αρκετά καλά.  Εάν θέλετε να μάθετε περισσότερα πράγματα για το indie Publishing και την αυτοέκδοση βιβλίων μπορείτε να επισκεφτείτε την στήλη μου στο Wattpad: Πώς να εκδώσω το βιβλίο μου.
+
+Fast forward φτάνουμε στον  Μάιο του 2020 όπου κάποια στιγμή έπαιζα με το github pages  και λέω: Δεν κάνω  ένα στατικό blog και να γράψω μερικά άρθρα με φωνητική πληκτρολόγηση;  Και εγένετο το  Studio Tech!
+
+ Πάντα μου άρεσε να γράφω και στο παρελθόν είχα αρκετά blog  με θέματα γύρω από την τεχνολογία και την κατασκευή ιστοσελίδων. Για διάφορους λόγους αποφάσισα να τα κλείσω το 2013.  από την άλλη επειδή τα βίντεο απαιτούν πολύ χρόνο για να γίνουν,  και μιας και τον Δεκέμβριο του 2019 αποφάσισα να μάθω φωνητική πληκτρολόγηση,  είδα πως είναι πολύ πιο εύκολο και γρήγορο πλέον να γράφεις πολλές λέξεις όπου κι αν βρίσκεσαι με πολύ λιγότερο κόπο. Εκτός λοιπόν από την συγγραφή βιβλίων  φαντασίας στα αγγλικά,  είπα θα ξαναδοκιμάσω να φτιάξω ένα blog γύρω από το Retro gaming και την τεχνολογία,  όπου τα άρθρα θα γίνονται αποκλειστικά με φωνητική πληκτρολόγηση.
+
+ Ελπίζω να απολαύσετε και να βρείτε χρήσιμο το περιεχόμενο  του συγκεκριμένου ιστολογίου.  Επίσης, σε περίπτωση που θέλετε  να γράψετε κάποιο άρθρο γύρω από το Retro / Indie gaming  ή την τεχνολογία, μη διστάσετε να επικοινωνήσετε μαζί μου :) 
