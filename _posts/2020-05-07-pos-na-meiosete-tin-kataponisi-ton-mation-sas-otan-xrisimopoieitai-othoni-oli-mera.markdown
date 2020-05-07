@@ -5,6 +5,8 @@ date: 2020-05-07 11:54:00 Z
 permalink: pos-na-meiwsete-tin-kataponisi-ton-mation-sas-otan-xrisimopoieitai-othoni-oli-mera
 categories:
 - Τεχνολογία
+tags:
+- οθόνη
 layout: post
 ---
 
