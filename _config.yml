@@ -24,7 +24,6 @@ source_url: https://alexitsios.github.io/site/
 CNAME: 
 navigation: true
 subscribers: true
-#twitter: tryghost
 facebook: groups/studiotech.gr/
 disqus: false
 disqus_shortname: alexitsios
