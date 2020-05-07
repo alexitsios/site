@@ -1,5 +1,5 @@
 ---
-title: Πως να μειώσετε την καταπόνηση των ματιών σας οταν χρησιμοποιείται οθόνη όλη
+title: Πως να μειώσετε την καταπόνηση των ματιών σας οταν χρησιμοποιείτε οθόνη όλη
   μέρα
 date: 2020-05-07 11:54:00 Z
 permalink: pos-na-meiwsete-tin-kataponisi-ton-mation-sas-otan-xrisimopoieitai-othoni-oli-mera
@@ -7,12 +7,12 @@ categories:
 - Τεχνολογία
 tags:
 - οθόνη
-layout: post
 current: post
 cover: uploads/eye-strain.jpg
 navigation: true
 class: post-template
 author: alex
+layout: post
 ---
 
 Βρίσκεστε μπροστά από οθόνες όλη την ημέρα;  δείτε πώς μπορείτε να μειώσετε την καταπόνηση των ματιών σας με ασφαλές τρόπο!
