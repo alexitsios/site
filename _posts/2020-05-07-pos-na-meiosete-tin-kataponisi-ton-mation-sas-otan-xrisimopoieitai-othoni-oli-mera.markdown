@@ -8,6 +8,11 @@ categories:
 tags:
 - οθόνη
 layout: post
+current: post
+cover: uploads/eye-strain.jpg
+navigation: true
+class: post-template
+author: alex
 ---
 
 Βρίσκεστε μπροστά από οθόνες όλη την ημέρα;  δείτε πώς μπορείτε να μειώσετε την καταπόνηση των ματιών σας με ασφαλές τρόπο!
