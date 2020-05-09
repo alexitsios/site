@@ -11,7 +11,6 @@ cover: uploads/eye-strain.jpg
 navigation: true
 class: post-template
 author: alex
-layout: post
 ---
 
 ## Είναι βρώμικη δουλειά,  αλλά κάποιος πρέπει να την κάνει! 
