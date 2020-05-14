@@ -1,29 +1,145 @@
----
-layout: 
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>Το Retrogaming και η Τεχνολογία στα καλύτερα της!</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    </link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Τα 10 Καλύτερα Beat Em Up Arcade Παιχνίδια Όλων των Εποχών!</title>
+        
+          <description>&lt;p&gt;Χωρίς αμφιβολία,  το συγκεκριμένο είδος ήταν και είναι ένα από τα πιο εύκολα στην κατανόηση.  αυτό που χρειάζεται να κάνετε συνήθως είναι να προχωράτε από τα αριστερά προς τα δεξιά και να σπάτε στο ξύλο όποιον NPC  βρίσκεται στο διάβα σας.  παρόλα αυτά,  υπάρχουν κάποια ιδιαίτερα concept στο συγκεκριμένο είδος και για να πω την αλήθεια είναι το πιο αγαπημένο μου από εκείνη την εποχή.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 09 May 2020 21:49:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        /ta-deka-kalytera-beat-em-up-arcade-paixnidia-olon-ton-epoxon</link>
+        <guid isPermaLink="true">/ta-deka-kalytera-beat-em-up-arcade-paixnidia-olon-ton-epoxon</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>Πως να καθαρίσω το πληκτρολόγιο μου</title>
+        
+          <description>&lt;h2 id=&quot;είναι-βρώμικη-δουλειά--αλλά-κάποιος-πρέπει-να-την-κάνει&quot;&gt;Είναι βρώμικη δουλειά,  αλλά κάποιος πρέπει να την κάνει!&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 09 May 2020 20:31:00 +0000</pubDate>
+        <link>
+        /pos-na-katharisw-to-pliktrologio-mou</link>
+        <guid isPermaLink="true">/pos-na-katharisw-to-pliktrologio-mou</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Πως να μειώσετε την καταπόνηση των ματιών σας οταν χρησιμοποιείτε οθόνη όλη μέρα</title>
+        
+          <description>&lt;p&gt;Βρίσκεστε μπροστά από οθόνες όλη την ημέρα;  δείτε πώς μπορείτε να μειώσετε την καταπόνηση των ματιών σας με ασφαλές τρόπο!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 07 May 2020 11:54:00 +0000</pubDate>
+        <link>
+        /pos-na-meiwsete-tin-kataponisi-ton-mation-sas-otan-xrisimopoieitai-othoni-oli-mera</link>
+        <guid isPermaLink="true">/pos-na-meiwsete-tin-kataponisi-ton-mation-sas-otan-xrisimopoieitai-othoni-oli-mera</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Φωνητική Πληκτρολόγηση σε Υπολογιστή και Κινητό</title>
+        
+          <description>&lt;p&gt;Ίσως να το έχετε καταλάβει κάποιοι,  αλλά οι περισσότεροι μάλλον όχι,  και αυτό είναι πως ότι γράφεται στο Studio Tech  γίνεται με φωνητική πληκτρολόγηση.  Ας δούμε Λοιπόν αναλυτικά βήμα προς βήμα την διαδικασία που μπορούμε να ακολουθήσουμε, ώστε να απαλλαγούμε από το φρικτό πληκτρολόγιο και να χρησιμοποιήσουμε νέες τεχνολογίες οι οποίες κάνουν τη ζωή μας πιο εύκολη,  αφού δεν χρειάζονται ιδιαίτερες δεξιότητες για να μάθει κάποιος φωνητική πληκτρολόγηση.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 06 May 2020 14:03:00 +0000</pubDate>
+        <link>
+        /fonitiki-pliktrologisi-se-ypologisti-kai-kinito</link>
+        <guid isPermaLink="true">/fonitiki-pliktrologisi-se-ypologisti-kai-kinito</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Το άγνωστο σε όλους μας Nintendo Playstation!</title>
+        
+          <description>&lt;p&gt;Το Nintendo PlayStation είναι ίσως η πιο άγνωστη αλλά και σπάνια κονσόλα στον κόσμο αυτή τη στιγμή.  το όνομα μπορεί να σας φανεί περίεργο και θα εξηγήσουμε με λεπτομέρεια για ποιο λόγο ονομάστηκε έτσι,  αλλά πολύ συνοπτικά το 1991 Nintendo μαζί με ένα τμήμα της Sony αποφάσισαν να συνεργαστούν και να φτιάξουν το Nintendo PlayStation.  από το 1989 ακόμη είχε γίνει πολύς ντόρος για τις παιχνιδοκονσόλες οι οποίες υποστηρίζουν cd και μία από αυτές θα ήταν το Nintendo PlayStation,  ο καρπός μεταξύ αυτών των δύο εταιρειών που τα επόμενα χρόνια θα γινόταν οι μεγαλύτεροι αντίπαλοι.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 05 May 2020 08:11:00 +0000</pubDate>
+        <link>
+        /to-agnosto-se-olous-mas-nintendo-playstation</link>
+        <guid isPermaLink="true">/to-agnosto-se-olous-mas-nintendo-playstation</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>10 καλύτερα παιχνίδα για το Nintendo NES</title>
+        
+          <description>&lt;p&gt;Αν κάποιος πει πως η Nintendo δεν έχει ποικιλία στα παιχνίδια της,  αυτό είναι ένα μεγάλο λάθος.  Παιχνίδια όπως το Super Mario Bros,  Legend of zelda καθώς και Castlevania,  είναι κάποια από τα πιο  διάσημα παιχνίδια που χάραξαν πορεία στον κόσμο των video games τόσο για την μοναδικότητα και ενδιαφέρουσα πλοκή τους,  το ποικίλο gameplay τους αλλά και την πληθώρα έξυπνο και μοναδικών παζλ.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 05 May 2020 07:47:00 +0000</pubDate>
+        <link>
+        /10-kalytera-paixnidia-gia-to-nintendo-nes</link>
+        <guid isPermaLink="true">/10-kalytera-paixnidia-gia-to-nintendo-nes</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>5 + 1 Windows Shortcuts για να γίνεις Ninja</title>
+        
+          <description>&lt;p&gt;Για όσους χρησιμοποιούμε υπολογιστές ή laptop με windows, τα shortcuts είναι ένας έξυπνος τρόπος να κάνουμε γρήγορα τις εργασίες μας. Με αυτά τα 5 + 1 χρήσιμα shortcuts, είμαι σίγουρος ότι θα γίνετε windows ninja.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 04 May 2020 15:14:00 +0000</pubDate>
+        <link>
+        /5-1-windows-shortcuts-gia-na-gineis-ninja</link>
+        <guid isPermaLink="true">/5-1-windows-shortcuts-gia-na-gineis-ninja</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>3 λόγοι που κάνουν το Google Stadia πατάτα!</title>
+        
+          <description>&lt;p&gt;Το όραμα της νέας πλατφόρμας της Google είναι να παίζεις από όποια συσκευή και αν έχεις, όπου και αν βρίσκεσαι! Βέβαια, αυτό μου ακούγεται πατάτα και δούμε τους λόγους που θα αποτύχει.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 04 May 2020 15:09:00 +0000</pubDate>
+        <link>
+        /giati-to-google-stadia-einai-patata</link>
+        <guid isPermaLink="true">/giati-to-google-stadia-einai-patata</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Πως να τραβήξεις καλύτερες φωτογραφίες με την κάμερα του κινητού!</title>
+        
+          <description>&lt;p&gt;Όσοι από εμάς μπορείτε να θυμηθείτε την εποχή προ smartphones, σίγουρα  γνωρίζετε πολύ καλά πως η διαδικασία το να τραβήξει κάποιος μία φωτογραφία δεν ήταν και το πιο απλό πράγμα.  πρώτα από όλα θα έπρεπε να αγοράσετε μία πάρα πολύ καλή κάμερα Καθώς επίσης και ένα λογισμικό επεξεργασίας για τον υπολογιστή σας.  φυσικά θα έπρεπε να αφιερώσετε πάρα πολύ χρόνο και ενέργεια για να μάθετε πώς να τα χρησιμοποιείτε όλα αυτά.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 04 May 2020 12:46:00 +0000</pubDate>
+        <link>
+        /pos-na-trabikseis-kalyteres-fotografies-me-tin-kamera-toy-kinitou</link>
+        <guid isPermaLink="true">/pos-na-trabikseis-kalyteres-fotografies-me-tin-kamera-toy-kinitou</guid>
+      </item>
+      
+    
   </channel>
 </rss>
