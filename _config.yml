@@ -19,8 +19,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://alexitsios.github.io/site/
-source_url: https://alexitsios.github.io/site/
+production_url: https://www.studiotech.gr
+source_url: https://www.studiotech.gr
 CNAME: 
 navigation: true
 subscribers: true
