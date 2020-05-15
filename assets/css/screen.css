@@ -164,11 +164,7 @@ body {
 }
 
 .site-logo {
-    max-height: 100px;
-}
-
-.site-logo img {
-    max-height: 100px;
+    max-height: 45px;
 }
 
 .site-description {

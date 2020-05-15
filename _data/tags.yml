@@ -1,20 +1,16 @@
-windows:
-  name: windows
+speeches:
+  name: speeches
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
-photography:
-  name: photography
+fiction:
+  name: fiction
   description: False
   cover: False
-nintendo:
-  name: nintendo
+fables:
+  name: fables
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
-nes:
-  name: nes
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-playstation:
-  name: playstation
+getting-started:
+  name: getting-started
   description: False
   cover: False
